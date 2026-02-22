@@ -74,6 +74,6 @@ What This Project Demonstrates:
 
 *Data preprocessing pipeline design
 
-Machine learning model development
+*Machine learning model development
 
-Production-ready model saving
+*Production-ready model saving
